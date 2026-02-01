@@ -9,6 +9,7 @@ Primary Metrics:
 •	Average Sales: What is the average revenue per sale transaction?
 •	Number of Items: How many different items are being sold?
 •	Average Rating: What is the average customer rating for items sold?
+
 Analytical Questions:
 •	How does fat content (Low Fat vs Regular) impact total sales?
 •	Which item type generates the highest sales revenue?
