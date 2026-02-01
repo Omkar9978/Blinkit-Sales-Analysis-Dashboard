@@ -1,2 +1,3 @@
-# Blinkit-Sales-Analysis-Dashboard
-Interactive Power BI analysis of Blinkit grocery sales revealing customer preferences, outlet performance, and geographic trends. Low-fat products drive 64.6% of revenue, Tier 3 cities outperform metros, with strategic recommendations for market expansion and product optimization.
+#Blinkit Grocery Sales Analysis - Power BI Dashboard
+##Project Objective
+Blinkit (India's Last Minute App) wants to conduct a comprehensive analysis of their sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization. The goal is to analyze various KPIs and visualizations in Power BI to help the business understand sales patterns, customer preferences, and outlet performance to drive strategic decisions for business growth and optimization.
