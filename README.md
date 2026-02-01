@@ -117,8 +117,7 @@ Blinkit (India's Last Minute App) wants to conduct a comprehensive analysis of t
 
 ## Final Conclusion
 
-To maximize Blinkit's sales and market expansion, the company should prioritize aggressive growth in Tier 3 cities, which contribute the highest share of total sales (39.3%) and offer lower competition with significant untapped potential. The business should replicate and scale the Supermarket Type 1 outlet format, as it generates 65.6% of total sales, while expanding low-fat and health-focused product offerings to align with strong customer preference (64.6%). Improving item visibility from the current range of 0.06–0.10 to the industry standard of 0.15+ through better merchandising can unlock an estimated 20–30% increase in sales. Additionally, underperforming categories such as Seafood and Breakfast should be revitalized through targeted promotions, while service quality improvements aimed at raising average customer ratings from 3.9 to 4.2+ will strengthen customer retention and competitive positioning. Converting medium-sized outlets into high-capacity formats and introducing private-label products in health segments will further diversify revenue streams, positioning Blinkit for an estimated 15–20% growth in the quick-commerce grocery market.
- in the quick-commerce grocery segment.
+To maximize Blinkit's sales, expand aggressively in Tier 3 cities (39.3% of sales) by replicating Supermarket Type1 format (65.6% success) and increasing low-fat product offerings (64.6% preference). Improve item visibility to 0.15+ for 20-30% sales boost, enhance ratings from 3.9 to 4.2+, and convert medium to high-capacity outlets. These strategies position Blinkit for 15-20% growth in the quick commerce segment.
 
 
 
