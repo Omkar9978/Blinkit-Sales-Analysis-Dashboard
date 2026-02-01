@@ -74,7 +74,7 @@ Blinkit (India's Last Minute App) wants to conduct a comprehensive analysis of t
 - Interactive Power BI dashboard providing insights into sales, outlets, and customer behavior.
 ### Dashboard Image
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Omkar9978/Blinkit-Sales-Analysis-Dashboard/blob/main/Blinkit%20Dashboard-img.png">
 </p>
 
 
