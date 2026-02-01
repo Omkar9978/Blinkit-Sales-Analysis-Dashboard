@@ -72,7 +72,12 @@ Blinkit (India's Last Minute App) wants to conduct a comprehensive analysis of t
 
 ### Dashboard Overview
 - Interactive Power BI dashboard providing insights into sales, outlets, and customer behavior.
-- Designed for dynamic filtering and easy comparison across multiple dimensions.
+### Dashboard Image
+<p align="center">
+  <img src="">
+</p>
+
+
 
 ### Dashboard Components
 
