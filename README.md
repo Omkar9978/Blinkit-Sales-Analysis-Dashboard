@@ -68,4 +68,57 @@ Blinkit (India's Last Minute App) wants to conduct a comprehensive analysis of t
 - Analyzed trends and patterns across all KPIs.
 - Derived actionable business insights to support strategic decision-making.
 
+## Dashboard
+
+### Dashboard Overview
+- Interactive Power BI dashboard providing insights into sales, outlets, and customer behavior.
+- Designed for dynamic filtering and easy comparison across multiple dimensions.
+
+### Dashboard Components
+
+#### Filter Panel (Left Side)
+- **Outlet Location Type**: Tier 1, Tier 2, Tier 3
+- **Outlet Size**: Small, Medium, High
+- **Item Type**: 16 product categories
+
+#### KPI Cards (Top)
+- **Total Sales**: $1.20M
+- **Average Sales**: $141
+- **Number of Items**: 8,523
+- **Average Rating**: 3.9
+
+#### Visualizations
+- **Fat Content by Outlet**: Donut chart comparing Low Fat ($776.32K) vs Regular ($425.36K).
+- **Item Type Sales**: Horizontal bar chart ranking all 16 item categories by sales.
+- **Fat Content Analysis**: Donut chart showing 64.6% Low Fat vs 35.4% Regular contribution.
+- **Outlet Establishment Trend**: Line chart (2012–2022) with peak sales in 2018 ($205K).
+- **Outlet Size Distribution**: Donut chart showing High (42.3%), Small (37.0%), Medium (20.7%).
+- **Outlet Location Performance**: Bar chart comparing Tier 3 (39.3%), Tier 2 (32.7%), Tier 1 (28.0%).
+- **Outlet Type Matrix**: Detailed table with Total Sales, Number of Items, Average Sales, Ratings, and Item Visibility.
+
+---
+
+## Project Insights
+- Low-fat products dominate sales with **64.6% contribution ($776.32K)**, indicating strong health-conscious customer preference.
+- Tier 3 cities outperform Tier 1 with **39.3% of total sales**, revealing untapped growth potential in smaller cities.
+- **Supermarket Type 1** accounts for **65.6% of total sales ($787.55K)**, making it the most scalable outlet model.
+- **Fruits & Vegetables (14.8%)** and **Snack Foods (14.7%)** are the top-performing categories.
+- Categories like **Seafood (1.0%)** and **Breakfast (1.5%)** significantly underperform.
+- High-capacity outlets contribute **42.3% of total sales**, demonstrating higher efficiency than medium-sized outlets (20.7%).
+- Item visibility remains consistently low (0.06–0.10) across outlets, presenting a **20–30% sales improvement opportunity**.
+- Average customer rating of **3.9** reflects good satisfaction but highlights scope for improvement.
+
+---
+
+## Final Conclusion
+- Focus expansion efforts on **Tier 3 cities**, which contribute **39.3% of total sales** and offer lower competition.
+- Replicate and scale the **Supermarket Type 1** outlet format to maximize revenue growth.
+- Expand **low-fat and health-focused product offerings** to align with strong consumer demand (64.6%).
+- Improve item visibility to industry standards (0.15+) through better merchandising to unlock **20–30% sales growth**.
+- Revitalize underperforming categories such as Seafood and Breakfast using targeted promotions.
+- Enhance service quality to improve customer ratings from **3.9 to 4.2+** for better retention.
+- Convert medium outlets into high-capacity formats and introduce private-label health products.
+- These strategies position Blinkit for **15–20% growth** in the quick-commerce grocery segment.
+
+
 
