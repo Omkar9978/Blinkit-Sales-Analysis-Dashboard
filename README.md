@@ -26,7 +26,7 @@ Blinkit (India's Last Minute App) wants to conduct a comprehensive analysis of t
 
 ## Process
 
-### Step 1: Data Verification - Checked the dataset for missing values, anomalies, and inconsistencies. Found 1,463 missing values in Item Weight column (17.2%) and inconsistent fat content labels.
+## Step 1: Data Verification - Checked the dataset for missing values, anomalies, and inconsistencies. Found 1,463 missing values in Item Weight column (17.2%) and inconsistent fat content labels.
 ### Step 2: Data Cleaning - Standardized Item Fat Content labels (LF, low fat, reg) to consistent categories (Low Fat, Regular). Ensured data consistency in data types, formats, and values.
 ### Step 3: Data Modeling - Loaded cleaned data into Power BI, established data model relationships, and verified data integrity.
 ### Step 4: DAX Calculations - Created calculated measures for Total Sales, Average Sales, Number of Items, Average Rating, and various percentage calculations using DAX formulas.
